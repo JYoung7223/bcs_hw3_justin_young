@@ -42,9 +42,9 @@ The following image demonstrates the desired result:
 
 https://jyoung7223.github.io/bcs_hw3_justin_young/
 
-* Below is a gif showing the finished product in action:
+* Below is a screenshot showing the finished product:
 
-![](./Assets/my-project.gif)s
+![](./Assets/Images/my-project.png)s
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
